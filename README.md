@@ -20,14 +20,14 @@
 ---
 
 ## 🧠 Background
-
-- Product Management
+```diff
++ Product Management
 - Scrum & Agile
-- Product discovery mindset
-- Collaboration between business and tech
-
+! Product discovery mindset
+# Collaboration between business and tech
+```
 ---
 
 ## 📬 Connect with me
 
-[LinkedIn](#https://www.linkedin.com/in/raphael-silvestre-alves-a0a842234/) • [Email](#mailto:ssevlaa@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/raphael-silvestre-alves-a0a842234/) • [Email](mailto:ssevlaa@gmail.com)
