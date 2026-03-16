@@ -1,7 +1,7 @@
 ## 🙃 About
 
 ```diff
-+ Frontend Developer based in Brazil
++ Frontend Developer based in Florianópolis, Brazil 
 - Background in Product Management & Scrum
 ! Focused on React.js, TypeScript and JavaScript
 # Interested in clean UI, product thinking and great user experiences
