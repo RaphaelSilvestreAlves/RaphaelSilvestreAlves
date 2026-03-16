@@ -2,9 +2,10 @@
 
 ```diff
 + Frontend Developer based in Florianópolis, Brazil
-@@ Background in Product Management & Scrum @@
++ Background in Product Management & Scrum
 ! Focused on React.js, TypeScript and JavaScript
-- Interested in clean UI, product thinking and great user experiences
+@@ Former Mobile Developer with Flutter & Dart @@
+# Interested in clean UI, product thinking and great user experiences
 ```
 ---
 
@@ -23,9 +24,9 @@
 ## 🧠 Background
 ```diff
 + Product Management, Scrum & Agile
-@@ Ex-Mobile Developer | Flutter & Dart @@
-- Product discovery mindset
-! Collaboration between business and tech
+@@ Former Mobile Developer | Flutter & Dart @@
+! Product discovery mindset
+# Collaboration between business and tech
 ```
 ---
 
