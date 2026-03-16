@@ -1,20 +1,11 @@
-<h1 align="center">Raphael Silvestre Alves</h1>
+## 🙃 About
 
-<p align="center">
-  Frontend Developer • React.js • TypeScript • JavaScript
-</p>
-
-<p align="center">
-  Product-minded developer with background in Product Management and Scrum
-</p>
-
----
-
-## 👨‍💻 About
-
-I'm a frontend developer focused on building clean, intuitive and valuable digital experiences.  
-My background in Product Management and Scrum helps me think beyond code — connecting user needs, business goals and product delivery.
-
+```diff
++ Frontend Developer based in Brazil
+- Background in Product Management & Scrum
+! Focused on React.js, TypeScript and JavaScript
+# Interested in clean UI, product thinking and great user experiences
+```
 ---
 
 ## ⚒️ Stack
@@ -39,4 +30,4 @@ My background in Product Management and Scrum helps me think beyond code — con
 
 ## 📬 Connect with me
 
-[LinkedIn](#) • [Portfolio](#) • [Email](#)
+[LinkedIn](#https://www.linkedin.com/in/raphael-silvestre-alves-a0a842234/) • [Email](#mailto:ssevlaa@gmail.com)
