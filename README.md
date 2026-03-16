@@ -4,7 +4,7 @@
 + Frontend Developer based in Florianópolis, Brazil
 + Background in Product Management & Scrum
 ! Focused on React.js, TypeScript and JavaScript
-@@ Former Mobile Developer with Flutter & Dart @@
+@@ Former Mobile Developer | Flutter & Dart @@
 # Interested in clean UI, product thinking and great user experiences
 ```
 ---
