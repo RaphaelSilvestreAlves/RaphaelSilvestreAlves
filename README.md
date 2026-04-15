@@ -1,16 +1,16 @@
 ## 🤓 About
 
 ```diff
-+ Frontend Developer based in Florianópolis, Brazil
++ Fullstack Developer based in Florianópolis, Brazil
 + Background in Product Management & Scrum
-! Focused on React.js, TypeScript and JavaScript
+! Focused on Python, React.js, TypeScript, JavaScript
 @@ Former Mobile Developer | Flutter & Dart @@
-# Interested in clean UI, product thinking and great user experiences
 ```
 ---
 
 ## ⚒️ Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
