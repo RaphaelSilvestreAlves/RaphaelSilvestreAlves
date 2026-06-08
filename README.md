@@ -12,7 +12,7 @@
 ### 💼 Product Management & Agile
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-Master-FF6600?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-0078D4?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ### 💻 Core Engineering (Background)
